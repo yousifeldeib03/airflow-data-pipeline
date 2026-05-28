@@ -79,7 +79,7 @@ Hossam
 ## 🗂️ Project Structure
 
 ```
-airflow/
+AirflowP/
 ├── dags/
 │   ├── dag1.py
 │   └── dag2.py
@@ -90,9 +90,7 @@ airflow/
 │   ├── dag_list.png
 │   └── email.png
 ├── depi.yaml
-├── requirements.txt
-├── .gitignore
-└── README.md
+└── requirements.txt
 ```
 
 ---
