@@ -44,13 +44,13 @@ send_email → write_names_to_file
 ## 📸 Screenshots
 
 ### 🟢 DAG Graph (both tasks success)
-![DAG Graph](photos/dag_graph.png)
+![DAG Graph](AirflowP/photos/dag_graph.png)
 
 ### 🟢 DAGs List
-![DAGs List](photos/dag_list.png)
+![DAGs List](AirflowP/photos/dag_list.png)
 
 ### 🟢 Email Result
-![Email received](photos/email.png)
+![Email received](AirflowP/photos/email.png)
 
 ---
 
